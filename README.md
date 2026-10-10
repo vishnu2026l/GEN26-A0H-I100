@@ -1,13 +1,13 @@
 # Genesis 2026: Ideathon
 
-## GEN26-A0H-IXXX
-### Team Details
-#### **Team Name** <<Insert Your Team Name>> <br/>
+## GEN26-A0H-I100
+### Team Details Space Aerospace Mobility and Next-Gen Infrastructure
+#### **Team Name** Civis Terra
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
+|   Team Leader   | S.Neal Anto               | CB.EN.U4CIE26056            MALE           |            B.Tech Civil     |                                 |  
+|    Member 2     | Boopeshwar S                CB.EN.U4CIE26006          | MALE                |       B.Tech Civil                           |  
+|    Member 3     | Vishnu Prasad M V         | CB.EN.U4CIE26067            MALE |                 |    B.Tech Civil                       |  
+|    Member 4     | Sasikiran Reddy Marla     |  CB.EN.U4CIE26058           MALE                |       B.Tech Civil                               |   
 
